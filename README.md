@@ -19,6 +19,7 @@
 ## Steps to Run
 
 1. git clone <repo-url>
+git clone https://github.com/nitinkumar09/redux-crud-dashboard.git
 2. cd redux-crud-dashboard
 3. npm install
 4. npm run dev
